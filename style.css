@@ -16,7 +16,7 @@ body {
 
 .page-title {
     font-size: 2rem;
-    color: #0a7c5e;
+    color: #1f63b1;
     font-family: "Pixelify Sans", sans-serif;
     letter-spacing: 0.05em;
 }
@@ -84,7 +84,7 @@ position: absolute;
 
 .instructions {
     font-size: 0.6rem;
-    color: #0f8347;
+    color: #0f2083;
     font-family: "Inter", sans-serif;
     font-weight: 400;
     font-style: italic;
@@ -117,7 +117,7 @@ position: absolute;
     position: absolute;
     top: -50px;
     font-size: 1.2rem;
-    color: #13754a;
+    color: #2852ac;
     opacity: 0;
     animation: confettiFall linear forwards;
 }
